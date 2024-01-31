@@ -3,6 +3,13 @@ Symbolic evaluation of BigInt computations + compilation to different BigInt lim
 
 
 ## Usage
+```bash
+npm install
+npm build
+npm start
+```
+
+
 1. Define a list of built in operations
 ```typescript
 enum U64Ops {
